@@ -1,0 +1,18 @@
+\contentsline {section}{Project Description}{1}{section*.2}
+\contentsline {subsection}{Intellectual Merit}{2}{section*.4}
+\contentsline {subsection}{Broader Impacts}{2}{section*.5}
+\contentsline {subsection}{Recent meetings}{2}{section*.6}
+\contentsline {section}{Organizing Committee and affiliations}{3}{section*.7}
+\contentsline {section}{Location}{4}{section*.8}
+\contentsline {section}{Participants}{4}{section*.10}
+\contentsline {section}{Organization \& conduct of the meeting}{6}{section*.12}
+\contentsline {section}{Budget request}{6}{section*.13}
+\contentsline {subsection}{{\texttt {NSF\ }}support request}{7}{section*.15}
+\contentsline {paragraph}{ESR selection process}{7}{section*.17}
+\contentsline {paragraph}{ESR selection criteria}{8}{section*.18}
+\contentsline {paragraph}{Dissemination of the call for ESRs}{8}{section*.19}
+\contentsline {subsubsection}{Role of {\texttt {AIR Center\ }}}{9}{section*.20}
+\contentsline {section}{Code of Conduct}{10}{section*.21}
+\contentsline {subsection}{Expected Behavior}{10}{section*.22}
+\contentsline {subsection}{Unacceptable Behavior}{10}{section*.23}
+\contentsline {subsection}{Consequences}{11}{section*.24}
